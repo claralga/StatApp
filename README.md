@@ -9,5 +9,5 @@ Ce dossier comporte plusieurs fichiers :
   - database_creation : code pour fusionner les deux bases de données ci-dessus
   - database_votes : base de données finale sur le vote des députés à l'Assemblée nationale
   - statistiques_scrutins : statistiques descriptives des scrutins (nombre de votants par scrutin, de pour/contre, d'abstention...)
-  - statistiques_votants : statistiques descriptives sur les votants 
-  - statistiques_groupe_ref : statistiques descriptives sur les groupes de référence (partis politiques)
+  - statistiques_votants : statistiques descriptives sur les votants et leur groupe d'appartenance 
+  - statistiques_demandeurs : travail sur les demandeurs de la loi, notamment nettoyage de ces données et one hot encoding 
