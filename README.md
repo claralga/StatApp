@@ -1,12 +1,10 @@
-# Projet de statistiques appliquées - CREST, ENSAE, Institut Polytechnique de Paris
-## Sujet : Machine Learning à l'Assemblée Nationale
+## Projet de statistiques appliquées - CREST, ENSAE, Institut Polytechnique de Paris
+### Sujet : Machine Learning à l'Assemblée Nationale
 
 **Romane Gajdos, Clémentine Abed-Meraim, Poppée Mongruel, Clara Le Gallic-Ach**
  
 **Encadré par Jules Depersin et Nicolas Schreuder**
  
-
-Machine Learning à l'Assemblée Nationale
 
 Ce dossier comporte plusieurs fichiers : 
   - importation_données : importation des données en format .json depuis l'open data de l'Assemblée Nationale
