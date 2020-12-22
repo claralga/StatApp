@@ -8,6 +8,8 @@ Encadré par Jules Depersin et Nicolas Schreuder
 *De novembre 2020 à juin 2021*
  
 
+
+
 Ce dossier comporte plusieurs fichiers : 
   - importation_données : importation des données en format .json depuis l'open data de l'Assemblée Nationale
   - database_scrutins : fichier csv comprenant les données par scrutin
