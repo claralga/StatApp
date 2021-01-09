@@ -19,3 +19,4 @@ Ce dossier comporte plusieurs fichiers :
   - statistiques_scrutins : statistiques descriptives des scrutins (nombre de votants par scrutin, de pour/contre, d'abstention...)
   - statistiques_votants : statistiques descriptives sur les votants et leur groupe d'appartenance 
   - statistiques_demandeurs : travail sur les demandeurs de la loi, notamment nettoyage de ces données et one hot encoding 
+  - cluster_votants : travail de clustering des députés en fonction de leur historique de vote
