@@ -22,6 +22,7 @@ Ce dossier comporte plusieurs fichiers :
   - clustering: travail de clustering des députés en fonction de leur historique de vote et des indices crées 
   - cluster_votants : création de la dataframe historique de vote des députés
   - scrapping_age : récupération de l'âge de chaque député.e sur sa page wikipédia
+  - profil votants : clustering sur l'évolution de l'accord de chaque député avec son parti
 
 
 Articles : 
