@@ -23,6 +23,7 @@ Ce dossier comporte plusieurs fichiers :
   - cluster_votants : création de la dataframe historique de vote des députés
   - scrapping_age : récupération de l'âge de chaque député.e sur sa page wikipédia
   - profil votants : clustering sur l'évolution de l'accord de chaque député avec son parti
+  - abstention_final : notebook reprenant le travail sur l'abstention avec les bonnes données + une frise chronologique du taux d'abstention
 
 
 Articles : 
