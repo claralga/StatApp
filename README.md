@@ -24,6 +24,7 @@ Ce dossier comporte plusieurs fichiers :
   - scrapping_age : récupération de l'âge de chaque député.e sur sa page wikipédia
   - profil votants : clustering sur l'évolution de l'accord de chaque député avec son parti
   - abstention_final : notebook reprenant le travail sur l'abstention avec les bonnes données + une frise chronologique du taux d'abstention
+  - agreement_index : plot des indices de cohésion de chaque parti en fonction du temps (à relier avec statistiques_votants)
 
 
 Articles : 
