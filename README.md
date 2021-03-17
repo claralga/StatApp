@@ -16,13 +16,12 @@ Ce dossier comporte plusieurs fichiers :
   - database_votants : fichier csv comprenant les données par votant
   - database_creation : code pour fusionner les deux bases de données ci-dessus
   - database_votes : base de données finale sur le vote des députés à l'Assemblée nationale
-  - statistiques_scrutins : statistiques descriptives des scrutins (nombre de votants par scrutin, de pour/contre, d'abstention...)
   - statistiques_votants : statistiques descriptives sur les votants et leur groupe d'appartenance 
   - statistiques_demandeurs : travail sur les demandeurs de la loi, notamment nettoyage de ces données et one hot encoding 
   - clustering: travail de clustering des députés en fonction de leur historique de vote et des indices crées 
   - cluster_votants : création de la dataframe historique de vote des députés
   - scrapping_age : récupération de l'âge de chaque député.e sur sa page wikipédia
-  - profil votants : clustering sur l'évolution de l'accord de chaque député avec son parti
+  - profil votants : clustering sur l'évolution de l'accord de chaque député avec son parti (piste abandonnée, notebook à supprimer à terme)
   - abstention_final : notebook reprenant le travail sur l'abstention avec les bonnes données + une frise chronologique du taux d'abstention
   - agreement_index : plot des indices de cohésion de chaque parti en fonction du temps (à relier avec statistiques_votants)
 
