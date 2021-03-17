@@ -25,6 +25,10 @@ Ce dossier comporte plusieurs fichiers :
   - abstention_final : notebook reprenant le travail sur l'abstention avec les bonnes données + une frise chronologique du taux d'abstention
   - agreement_index : plot des indices de cohésion de chaque parti en fonction du temps (à relier avec statistiques_votants)
 
+Open Data : 
+- https://www.hatvp.fr/wordpress/wp-content/uploads/2016/12/Open-data-integrite-publique.pdf 
+- https://www.gouvernement.fr/action/l-ouverture-des-donnees-publiques
+
 
 Articles : 
 - https://www.ladepeche.fr/2021/01/23/comment-votent-vos-deputes-a-lassemblee-nationale-9328626.php : À un an et demi de la fin de leur mandat – les prochaines élections législatives sont programmées en juin 2021 –, le site internet datan.fr a épluché et analysé le comportement des parlementaires français, avec l’historique de tous les votes des députés… Soit plus de 3 000 scrutins ! Positions importantes, derniers votes, participation, loyauté envers son groupe politique, quels sont les enseignements à en tirer pour nos élus aveyronnais ?
