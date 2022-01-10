@@ -7,8 +7,7 @@ Encadré par Jules Depersin et Nicolas Schreuder
 
 *De novembre 2020 à juin 2021*
  
-
-
+Notre projet repose sur les données suivantes : **https://data.assemblee-nationale.fr/**
 
 Ce dossier comporte plusieurs dossiers : 
   - **Rapport : Le pdf de notre rapport rédigé comportant tous les graphiques finalisés**
