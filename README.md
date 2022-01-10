@@ -1,15 +1,16 @@
 ## Projet de statistiques appliquées - CREST, ENSAE, Institut Polytechnique de Paris
 ### Sujet : Machine Learning à l'Assemblée Nationale
 
-Romane Gajdos, Clémentine Abed-Meraim, Poppée Mongruel, Clara Le Gallic-Ach
- 
+Romane Gajdos, Clémentine Abed-Meraim, Poppée Mongruel, Clara Le Gallic-Ach 
 Encadré par Jules Depersin et Nicolas Schreuder
-
 *De novembre 2020 à juin 2021*
+ 
  
 Notre projet repose sur les données suivantes : **https://data.assemblee-nationale.fr/**
 
-Ce dossier comporte plusieurs dossiers : 
+
+
+Ce projet comporte plusieurs dossiers : 
   - **Rapport : Le pdf de notre rapport rédigé comportant tous les graphiques finalisés**
   - Data : Les fichiers csv de nos données
   - Data Process : Les scripts de certaines de nos manipulations de données
