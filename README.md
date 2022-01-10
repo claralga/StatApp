@@ -10,7 +10,14 @@ Encadré par Jules Depersin et Nicolas Schreuder
 
 
 
-Ce dossier comporte plusieurs fichiers : 
+Ce dossier comporte plusieurs dossiers : 
+  - **Rapport : Le pdf de notre rapport rédigé comportant tous les graphiques finalisés**
+  - Data : Les fichiers csv de nos données
+  - Data Process : Les scripts de certaines de nos manipulations de données
+  - Premières Statistiques : Les scripts des statistiques descriptives générales des données
+  - Random Forest : Les scripts concernant la random forest
+ 
+ Ci-dessous le détail de certains fichiers : 
   - importation_données : importation des données en format .json depuis l'open data de l'Assemblée Nationale
   - database_scrutins : fichier csv comprenant les données par scrutin
   - database_votants : fichier csv comprenant les données par votant
